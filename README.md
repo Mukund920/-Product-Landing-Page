@@ -21,3 +21,4 @@ This repository contains the source code for a product landing page. The page sh
    ```bash
    cd product-landing-page
    ```
+![product landing page](https://github.com/user-attachments/assets/d074599e-6026-4676-bb30-db303f4bbb8e)
