@@ -11,14 +11,4 @@ This repository contains the source code for a product landing page. The page sh
 - Pricing section with different product tiers
 - Footer with links to privacy, terms, and contact information
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/product-landing-page.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd product-landing-page
-   ```
 ![product landing page](https://github.com/user-attachments/assets/d074599e-6026-4676-bb30-db303f4bbb8e)
